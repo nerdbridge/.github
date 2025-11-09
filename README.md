@@ -1,4 +1,4 @@
-![Zehn Jahre Löten](./zehnloeten.jpg)
+![Zehn Jahre Löten](./image.png)
 
 > Die nerdbridge ist der Treffpunkt computerbegeisteter Nerds aus Einbeck und Umgebung.
 > Dabei geht es um alles was das Thema Computer weiträumig streift. Gerade auch das Basteln und Entdecken mit und am Computer soll gelebt werden. Daher ist jeder willkommen, egal welcher Wissensstand und welches Thema von Interesse ist.  
