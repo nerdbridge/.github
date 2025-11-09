@@ -5,10 +5,5 @@
 
 Diese GitLab Gruppe enthält Code Repos von Projekten die innerhalb der Gruppe durchgeführt wurden oder werden.
 
-- [Unsere Website](https://git.brickburg.de/nerdbridge/nerdbridge/website)
-- [Folien von Vorträgen](https://git.brickburg.de/nerdbridge/nerdbridge/slides)
-
-## Repo Migration 2025-11-01
-
-Unsere Repos wurden am 1. November hierher migriert, da die dedizierte nerdbridge GitLab Instanz aus Kostengründen eingestellt wurde.
-Falls Du Zugriff auf ein Repo benötigst, kontaktiere bitte Christian.
+- [Unsere Website](https://nerdbridge.de)
+- [Folien von Vorträgen](https://slides-9b2a50.huhu123.de/)
